@@ -1,0 +1,11 @@
+# Site settings
+title: Good Day Pottery
+email: info@gooddaypottery.com
+description: "Official Website of the Good Day Pottery Company"
+baseurl: ""
+url: "http://www.gooddaypottery.com"
+twitter_username: gooddaypottery
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
